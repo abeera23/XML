@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<xyz:facewash xmlns:xyz="www.xyz.com">
+<xyz:name>Ponds</xyz:name>
+<xyz:prize>459</xyz:prize>
+</xyz:facewash>
+<efg:facewash xmlns:efg="www.efg.com">
+<efg:name>Mec</efg:name>
+<efg:prize>330</efg:prize>
+</efg:facewash>
+<pqr:facewash xmlns:pqr="www.pqr.com">
+<pqr:name>hemani</pqr:name>
+<pqr:prize>460</pqr:prize>
+</pqr:facewash>
+</products>
