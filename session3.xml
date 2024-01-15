@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="session3.xsd">
+
+<employees>
+
+<employe>
+<name>Ali</name>
+<id>285</id>
+<department>Admins</department>
+</employe>
+
+<employe>
+<name>Ahmed</name>
+<id>383</id>
+<department>Acounts</department>
+</employe>
+
+</employees>

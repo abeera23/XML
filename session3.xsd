@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema">
+
+<xs:element name="emloyees">
+<xs:complextype>
+<xs:sequence>
+
+<xs:element name="emloye" maxoccurs="unbounded">
+<xs:complextype>
+<xs:sequence>
+
+<xs:element name="name" type="xs:string"/>
+<xs:element name="id" type="xs:integer"/>
+<xs:element name="department" type="xs:string"/>
+
+</xs:sequence>
+</complextype>
+</xs:element>
+
+</xs:sequence>
+</complextype>
+</xs:element>
+</xs:schema>
