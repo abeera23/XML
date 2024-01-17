@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<employees>
+
+<employe>
+<name>Dua</name>
+<id>285</id>
+<gmail>Dua@gmail.com</gmail>
+</employe>
+
+<employe>
+<name>Sara</name>
+<id>383</id>
+<gmail>Sara@gmail.com</gmail>
+</employe>
+
+<employe>
+<name>Fatima</name>
+<id>231</id>
+<gmail>Fatima@gmail.com</gmail>
+</employe>
+
+<employe>
+<name>Sadia</name>
+<id>450</id>
+<gmail>Sadia@gmail.com</gmail>
+</employe>
+
+</employees>
