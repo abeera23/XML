@@ -15,15 +15,15 @@
 </thead>
 <tbody bgcolor="green">
 <xsl:for-each select="employees/employe">
-
-<xsl:sort select="id" datatype="number"/>
+<xsl:if test="name &#61;'Fatima'">
+<!--<xsl:sort select="id" datatype="number"/>-->
 <tr>
 <td><xsl:value-of select="name"/></td>
 <td><xsl:value-of select="id"/></td>
 <td><xsl:value-of select="gmail"/></td>
 
 </tr>
-
+</xsl:if>
 </xsl:for-each>
 </tbody>
 
